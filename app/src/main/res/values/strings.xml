@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DeliveryList</string>
+
+    <string name="http_error_message">HTTP error occurred</string>
+    <string name="generic_error_message">An unexpected error occurred</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="delivery_details">Delivery Details</string>
+    <string name="goods_to_deliver">Goods to deliver</string>
+    <string name="title_activity_delivery_details">DeliveryDetailsActivity</string>
+    <string name="my_deliveries">My Deliveries</string>
+    <string name="remove_from_fav">Remove from favourite</string>
+</resources>
